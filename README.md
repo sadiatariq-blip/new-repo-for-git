@@ -1,5 +1,5 @@
-# new-repo-for-git
-this is my new repo
-i am new coder.
--author sadia tariq
+# new-repo-for-git.
+This is my new repo.
+I am new coder.
+-Author sadia tariq
 
